@@ -1,0 +1,5 @@
+Based on http://ubuntuforums.org/showthread.php?t=1797848
+Added notifications for ubuntu
+
+Usage: spotifyControl {play|pause|playpause|next|previous|stop|playstatus|<spotify URI>}
+
